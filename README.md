@@ -9,7 +9,6 @@ This project is developed as part of the **Hex Softwares Machine Learning Intern
 
 The notebook uses both **Machine Learning** and **Deep Learning** approaches and compares their performance using standard classification metrics.
 
-> **Note:** This project is for learning and internship demonstration purposes only. It should not be used as a real medical diagnosis system.
 
 ---
 
@@ -249,5 +248,6 @@ heart_disease_prediction_outputs
 Machine Learning Intern  
 Hex Softwares Internship Program
 Computer Science Student
+
 ---
 
