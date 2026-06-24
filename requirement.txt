@@ -1,0 +1,11 @@
+
+- Python
+- Google Colab
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- XGBoost
+- TensorFlow / Keras
+- Joblib
